@@ -48,7 +48,7 @@ body {
 }
 
 #athlete-mobile {
-    background: url("https://assets.codepen.io/6060109/athlete-girl.png") no-repeat right top;
+    background: url('https://assets.codepen.io/6060109/mobile-shoes.jpg') no-repeat right top;
     background-size: cover;
     height: 250px;
     width: 100%;
@@ -120,7 +120,7 @@ input[type="submit"] {
 @media only screen and (min-width: 768px) {
 
     body {
-        background: url('https://assets.codepen.io/6060109/destop-bg.png');
+        background: url('https://assets.codepen.io/6060109/waves.png');
         background-size: cover;
     }
 
@@ -144,9 +144,9 @@ input[type="submit"] {
     .desktop-image {
         display: block;
         width: 50%;
-        background: url('https://assets.codepen.io/6060109/athlete-big.png');
+        background: url('https://assets.codepen.io/6060109/shoes.png');
         background-size: cover;
-        clip-path: polygon(0 0, 100% 0, 100% 100%, 35% 100%);
+        
     }
 
     h2 {
