@@ -1,5 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/211331c7-1aad-4a6b-9eef-97698d0a829e/deploy-status)](https://app.netlify.com/sites/comingsoonfm/deploys)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a57d8156-c1e8-452e-8231-fb4002178f8b/deploy-status)](https://app.netlify.com/sites/comingsoonv22023/deploys)
 # Coming Soon Landing Page with Email Form
 
 
