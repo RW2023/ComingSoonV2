@@ -131,7 +131,7 @@ input[type="submit"] {
         text-align: left;
     }
 
-    /* Remove the display: none rule for the mobile image */
+    
     #athlete-mobile {
         display: none;
     }
